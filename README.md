@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Arush's github stats](https://github-readme-stats.vercel.app/api?username=arush-sal&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Harry-Chen">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gotham&username=arush-sal&layout=compact" />
+</a>
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/arush-sal/count.svg" alt ="Loading">
