@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Arush's github stats](https://github-readme-stats-two-woad-70.vercel.app/api?username=arush-sal&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Arush's github stats](https://github-stats-extended.vercel.app/api/?username=arush-sal&show_icons=true&theme=gotham&include_all_commits=true&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-<a href="https://github.com/Harry-Chen">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gotham&username=arush-sal&layout=compact" />
-</a>
+![](https://github-stats-extended.vercel.app/api/top-langs/?theme=gotham&username=arush-sal&layout=donut)
+
+<kbd>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arush-sal&theme=gotham&name=Profile%20Summary&animation=load" />
+</kbd>
